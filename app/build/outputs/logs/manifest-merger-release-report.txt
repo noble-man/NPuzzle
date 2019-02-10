@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:16:1-33:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1707d2aa1dae38796c27c5f2120b05ae/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2953c1ada426f6e4de060a7af14d44e1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/3bc354b3c4dc764f7935649350f15146/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/219d41f11521cb7e98ca7236ddafb841/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/79e5df9a63b2967f1457af1638be20dd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a698691e873522c24ab8b32a5aa7cc31/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/77094316a9c5f709c2945c59b0e5ad22/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/f72a4fae6e9ff684463703351eaef3dd/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:11-38
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:8:5-68:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:24:5-32:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1707d2aa1dae38796c27c5f2120b05ae/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1707d2aa1dae38796c27c5f2120b05ae/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2953c1ada426f6e4de060a7af14d44e1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2953c1ada426f6e4de060a7af14d44e1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/3bc354b3c4dc764f7935649350f15146/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/3bc354b3c4dc764f7935649350f15146/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/219d41f11521cb7e98ca7236ddafb841/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/219d41f11521cb7e98ca7236ddafb841/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/79e5df9a63b2967f1457af1638be20dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/79e5df9a63b2967f1457af1638be20dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a698691e873522c24ab8b32a5aa7cc31/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a698691e873522c24ab8b32a5aa7cc31/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/77094316a9c5f709c2945c59b0e5ad22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/77094316a9c5f709c2945c59b0e5ad22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/f72a4fae6e9ff684463703351eaef3dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/f72a4fae6e9ff684463703351eaef3dd/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:12:9-40
+activity#n.puzzle.oathisus.SplashActivity
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:13:9-23:20
+	android:screenOrientation
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:17:13-49
+	android:label
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:16:13-45
+	android:configChanges
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:15:13-63
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:14:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:21:27-74
+activity#n.puzzle.oathisus.MenuActivity
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:24:9-34:20
+	android:screenOrientation
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:27:13-45
+	android:configChanges
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:26:13-63
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:25:13-58
+intent-filter#action:name:n.puzzle.oathisus.MENU+category:name:android.intent.category.DEFAULT
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:29:13-33:29
+action#n.puzzle.oathisus.MENU
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:30:17-64
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:30:25-62
+category#android.intent.category.DEFAULT
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:32:17-75
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:32:27-73
+activity#n.puzzle.oathisus.EasyActivity
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:35:9-45:20
+	android:screenOrientation
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:36:13-58
+intent-filter#action:name:n.puzzle.oathisus.EASY+category:name:android.intent.category.DEFAULT
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:40:13-44:29
+action#n.puzzle.oathisus.EASY
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:41:17-64
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:41:25-62
+activity#n.puzzle.oathisus.MediumActivity
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:46:9-56:20
+	android:screenOrientation
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:49:13-45
+	android:configChanges
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:48:13-63
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:47:13-60
+intent-filter#action:name:n.puzzle.oathisus.MEDIUM+category:name:android.intent.category.DEFAULT
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:51:13-55:29
+action#n.puzzle.oathisus.MEDIUM
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:52:17-66
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:52:25-64
+activity#n.puzzle.oathisus.HardActivity
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:57:9-67:20
+	android:screenOrientation
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:60:13-45
+	android:configChanges
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:59:13-63
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:58:13-58
+intent-filter#action:name:n.puzzle.oathisus.HARD+category:name:android.intent.category.DEFAULT
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:62:13-66:29
+action#n.puzzle.oathisus.HARD
+ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:63:17-64
+	android:name
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml:63:25-62
+uses-sdk
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:23:5-42
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1707d2aa1dae38796c27c5f2120b05ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1707d2aa1dae38796c27c5f2120b05ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2953c1ada426f6e4de060a7af14d44e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2953c1ada426f6e4de060a7af14d44e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/3bc354b3c4dc764f7935649350f15146/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/3bc354b3c4dc764f7935649350f15146/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/219d41f11521cb7e98ca7236ddafb841/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/219d41f11521cb7e98ca7236ddafb841/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/79e5df9a63b2967f1457af1638be20dd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/79e5df9a63b2967f1457af1638be20dd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a698691e873522c24ab8b32a5aa7cc31/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a698691e873522c24ab8b32a5aa7cc31/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/77094316a9c5f709c2945c59b0e5ad22/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/77094316a9c5f709c2945c59b0e5ad22/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/f72a4fae6e9ff684463703351eaef3dd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/f72a4fae6e9ff684463703351eaef3dd/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+		ADDED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1707d2aa1dae38796c27c5f2120b05ae/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1707d2aa1dae38796c27c5f2120b05ae/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2953c1ada426f6e4de060a7af14d44e1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2953c1ada426f6e4de060a7af14d44e1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/3bc354b3c4dc764f7935649350f15146/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/3bc354b3c4dc764f7935649350f15146/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/219d41f11521cb7e98ca7236ddafb841/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/219d41f11521cb7e98ca7236ddafb841/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/79e5df9a63b2967f1457af1638be20dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/79e5df9a63b2967f1457af1638be20dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a698691e873522c24ab8b32a5aa7cc31/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/a698691e873522c24ab8b32a5aa7cc31/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/77094316a9c5f709c2945c59b0e5ad22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/77094316a9c5f709c2945c59b0e5ad22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/f72a4fae6e9ff684463703351eaef3dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/f72a4fae6e9ff684463703351eaef3dd/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/8232023c22374783462af164e6017c8d/AndroidManifest.xml:30:19-91
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/AndroidManifest.xml:22:13-58

@@ -1,0 +1,25 @@
+#Tue May 22 22:47:18 CEST 2018
+renamed.7=classes4.dex
+renamed.6=classes5.dex
+renamed.5=classes6.dex
+renamed.4=classes8.dex
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes7.dex
+base.7=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62377fec6ee8ff7d2c16902caa7d91cbdc73fb68
+base.6=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_445e5a2c8cd05fe0b9105db70e0b3eea7eb0c4b8
+base.5=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_4d81aef8a4a89d4f3faace2b633555f8bc70ae84
+base.4=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30a1cd55fbb2c6028390c7aa4e110ec68be8ffb1
+base.3=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_3ea9fdff7538034cfe957473543168a605ea602c
+base.2=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2494378a61cd34ba6c743f6aa344dd05092c2813
+base.1=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bedca7c9679b9792381f368dd01c982ee7963281
+base.0=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_859d47390ce0978cfdb541ea54826fd20a2283c9
+file.7=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62377fec6ee8ff7d2c16902caa7d91cbdc73fb68/classes.dex
+file.6=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_445e5a2c8cd05fe0b9105db70e0b3eea7eb0c4b8/classes.dex
+file.5=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_4d81aef8a4a89d4f3faace2b633555f8bc70ae84/classes.dex
+file.4=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30a1cd55fbb2c6028390c7aa4e110ec68be8ffb1/classes.dex
+file.3=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_3ea9fdff7538034cfe957473543168a605ea602c/classes.dex
+file.2=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2494378a61cd34ba6c743f6aa344dd05092c2813/classes.dex
+file.1=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bedca7c9679b9792381f368dd01c982ee7963281/classes.dex
+file.0=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_859d47390ce0978cfdb541ea54826fd20a2283c9/classes.dex

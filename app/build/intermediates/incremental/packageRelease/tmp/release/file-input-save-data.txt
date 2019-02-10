@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Jan 16 10:32:20 CET 2019
+1.base=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dexMerger/release/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=font.ttf
+0.set=ASSET
+0.base=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out
+1.path=classes.dex

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/3fdd583e94ab7e7d0ebb0db37b8e1cfb/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

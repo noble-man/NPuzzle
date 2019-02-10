@@ -1,0 +1,4 @@
+#Tue Jun 19 20:59:35 CEST 2018
+base.0=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

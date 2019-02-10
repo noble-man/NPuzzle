@@ -1,0 +1,7 @@
+#Mon Jun 25 21:03:02 CEST 2018
+base.0=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_afbf8efb1d7c3cd99f5fb8c4b9773e9d6dbba90b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9144541c0ff026df97f3a841b239fe4ee0a97ac/classes.dex
+base.1=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9144541c0ff026df97f3a841b239fe4ee0a97ac
+file.0=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_afbf8efb1d7c3cd99f5fb8c4b9773e9d6dbba90b/classes.dex

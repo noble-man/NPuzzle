@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa-rIN/values-pa-rIN.xml",
+            "map": [
+                {
+                    "source": "/Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/e2e0ca951d35d52c92a6cac3cbadc42b/res/values-pa-rIN/common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "258",
+                        "endOffsets": "424"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "254",
+                        "endOffsets": "355"
+                    }
+                }
+            ]
+        }
+    ]
+}

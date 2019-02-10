@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/patrickmbenza/Desktop/Sphinx Riddle-NPuzzle/NPuzzle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml",
+            "map": [
+                {
+                    "source": "/Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/7fa7f20247695f98cc258d021a311066/res/values-km-rKH/common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "250",
+                        "endOffsets": "416"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "246",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        }
+    ]
+}

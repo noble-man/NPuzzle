@@ -1,0 +1,4 @@
+#Sun Feb 10 12:33:59 CET 2019
+base.0=/Users/patrickmbenza/Desktop/Sphinx Riddle-NPuzzle/NPuzzle/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

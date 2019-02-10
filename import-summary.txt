@@ -1,0 +1,59 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* tile_1.PNG => tile_1.png
+* tile_10.PNG => tile_10.png
+* tile_11.PNG => tile_11.png
+* tile_12.PNG => tile_12.png
+* tile_13.PNG => tile_13.png
+* tile_14.PNG => tile_14.png
+* tile_15.PNG => tile_15.png
+* tile_16.PNG => tile_16.png
+* tile_17.PNG => tile_17.png
+* tile_18.PNG => tile_18.png
+* tile_19.PNG => tile_19.png
+* tile_2.PNG => tile_2.png
+* tile_20.PNG => tile_20.png
+* tile_21.PNG => tile_21.png
+* tile_22.PNG => tile_22.png
+* tile_23.PNG => tile_23.png
+* tile_24.PNG => tile_24.png
+* tile_3.PNG => tile_3.png
+* tile_4.PNG => tile_4.png
+* tile_5.PNG => tile_5.png
+* tile_6.PNG => tile_6.png
+* tile_7.PNG => tile_7.png
+* tile_8.PNG => tile_8.png
+* tile_9.PNG => tile_9.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
