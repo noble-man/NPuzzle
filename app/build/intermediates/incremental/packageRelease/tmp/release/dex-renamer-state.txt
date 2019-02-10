@@ -1,4 +1,0 @@
-#Wed Jan 16 10:32:19 CET 2019
-base.0=/Users/patrickmbenza/Desktop/NCPuzzle15/NCPuzzle15/app/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex

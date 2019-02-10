@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/patrickmbenza/Desktop/Sphinx Riddle-NPuzzle/NPuzzle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/patrickmbenza/Desktop/NPuzzle/NPuzzle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/7fa7f20247695f98cc258d021a311066/res/values/common_strings.xml",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/patrickmbenza/Desktop/Sphinx Riddle-NPuzzle/NPuzzle/app/src/main/res/values/styles.xml",
+                    "source": "/Users/patrickmbenza/Desktop/NPuzzle/NPuzzle/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -114,6 +114,23 @@
                     }
                 },
                 {
+                    "source": "/Users/patrickmbenza/Desktop/NPuzzle/NPuzzle/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,105",
+                        "endColumns": "44,46",
+                        "endOffsets": "99,147"
+                    },
+                    "to": {
+                        "startLines": "38,64",
+                        "startColumns": "4,4",
+                        "startOffsets": "2639,4280",
+                        "endColumns": "44,46",
+                        "endOffsets": "2679,4322"
+                    }
+                },
+                {
                     "source": "/Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/bf6f75ec8432fabf90ecd43f080090b6/res/values/values.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10",
@@ -131,20 +148,20 @@
                     }
                 },
                 {
-                    "source": "/Users/patrickmbenza/Desktop/Sphinx Riddle-NPuzzle/NPuzzle/app/src/main/res/values/colors.xml",
+                    "source": "/Users/patrickmbenza/Desktop/NPuzzle/NPuzzle/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "59,105",
-                        "endColumns": "44,46",
-                        "endOffsets": "99,147"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "45",
+                        "endOffsets": "97"
                     },
                     "to": {
-                        "startLines": "38,64",
-                        "startColumns": "4,4",
-                        "startOffsets": "2639,4280",
-                        "endColumns": "44,46",
-                        "endOffsets": "2679,4322"
+                        "startLines": "240",
+                        "startColumns": "4",
+                        "startOffsets": "16037",
+                        "endColumns": "45",
+                        "endOffsets": "16078"
                     }
                 },
                 {
@@ -217,23 +234,6 @@
                         "startOffsets": "16083,16175",
                         "endColumns": "91,87",
                         "endOffsets": "16170,16258"
-                    }
-                },
-                {
-                    "source": "/Users/patrickmbenza/Desktop/Sphinx Riddle-NPuzzle/NPuzzle/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "56",
-                        "endColumns": "45",
-                        "endOffsets": "97"
-                    },
-                    "to": {
-                        "startLines": "240",
-                        "startColumns": "4",
-                        "startOffsets": "16037",
-                        "endColumns": "45",
-                        "endOffsets": "16078"
                     }
                 }
             ]

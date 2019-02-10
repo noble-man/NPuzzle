@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/patrickmbenza/Desktop/Sphinx Riddle-NPuzzle/NPuzzle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
+            "outputFile": "/Users/patrickmbenza/Desktop/NPuzzle/NPuzzle/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
             "map": [
                 {
                     "source": "/Users/patrickmbenza/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/7fa7f20247695f98cc258d021a311066/res/values-in/common_strings.xml",
